@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VolumeSync.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OtherComputerAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:57564</Value>
+    </Setting>
+    <Setting Name="SelfHostAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://+:57564</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
